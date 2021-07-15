@@ -1,0 +1,9 @@
+python-dotenv
+dj-database-url
+django
+djangorestframework
+psycopg2-binary
+black
+factory_boy
+names
+Faker
