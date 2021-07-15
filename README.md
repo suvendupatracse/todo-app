@@ -28,4 +28,7 @@ python manage.py createsuperuser
 ```
 python manage.py runserver
 ```
-## 
+### Check in browser
+http://localhost:8000/api/v1/common/users/
+
+http://localhost:8000/api/v1/tasks/
