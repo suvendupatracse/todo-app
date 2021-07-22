@@ -32,3 +32,6 @@ python manage.py runserver
 http://localhost:8000/api/v1/common/users/
 
 http://localhost:8000/api/v1/tasks/
+
+### Run Test
+pytest -s -v --cov=.
